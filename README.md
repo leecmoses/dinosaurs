@@ -1,5 +1,5 @@
 # Dinosaurs 
-A web application generates a 3x3 grid comparison infographic between the user and dinosaurs. The facts are derived from data that is inputted by the user. The user is displayed in the center tile. 
+A web application that generates a 3x3 grid comparison infographic between the user and dinosaurs. The facts are derived from data that is inputted by the user. The user is displayed in the center tile. 
 
 ## Getting Started Locally
 - Either clone or download the repository
